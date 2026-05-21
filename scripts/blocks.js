@@ -450,6 +450,7 @@ newBlock("ultra-assembler",UnitAssembler);
 newBlock("boss-assembler",UnitAssembler);
 
 log("35");
+newBlock("general-payload-conveyor",PayloadConveyor);
 newBlock("small-unit-constructor",UnitFactory);
 newBlock("small-unit-constructor-sharded",UnitFactory);
 newBlock("standard-constructor",UnitFactory);

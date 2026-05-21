@@ -127,7 +127,7 @@
       "rotate": true,
       "rotateSpeed": 15,
       "x": 4.5,
-      "y": -0.25,
+      "y": 0,
       "shootX": -2,
       "shootY": 5,
       "shoot": {

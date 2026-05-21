@@ -73,6 +73,7 @@
   "rotate": true,
   "warmupRate": 0.01,
   "rotateDraw": false,
+  "drawArrow": true,
   "research": {
     "parent": "blast-furnace",
     "objectives": [ 

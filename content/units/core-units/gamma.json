@@ -32,7 +32,7 @@
       "shootY": 4,
       "reload": 15,
       "ejectEffect": "casing1",
-      "shootSound": "shoot",
+      "shootSound": "shootGamma",
       "shoot": {
         "type": "shootSpread",
         "shots": 2,

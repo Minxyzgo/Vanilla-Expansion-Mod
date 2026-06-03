@@ -11,13 +11,7 @@
   "hasPower": true,
   "ambientSound": "none",
   "research": {
-    "parent": "melon-repair-bay",
-    "objectives": [ 
-      {
-        "type": "SectorComplete",
-        "preset": "boss-chiniun"
-      }
-    ]
+    "parent": "team-projector-omega",
   },
   "drawer": {
     "type": "DrawMulti",
@@ -26,7 +20,7 @@
       {
         "type": "DrawGlowRegion",
         "suffix": "-top",
-        "color": "ffa665",
+        "color": "f25555",
         "alpha": 0.9,
         "glowIntensity": 0.5,
         "glowScale": 10
@@ -37,7 +31,7 @@
         "radius": 48,
         "useWarmupRadius": true,
         "timeScl": 0.5,
-        "color": "ffa66544"
+        "color": "f2555544"
       },
       {
         "type": "DrawShape",
@@ -45,14 +39,14 @@
         "radius": 48,
         "useWarmupRadius": true,
         "timeScl": -0.5,
-        "color": "ffa66544"
+        "color": "f2555544"
       },
       {
         "type": "DrawBlockParts",
         "parts": [
           {
             "type": "RegionPart",
-            "name": "ve-team-projector-zenith-glow",
+            "name": "ve-team-projector-omega-glow",
             "color": "ffffff",
             "blending": "additive",
             "growX": 0.33333, "growY": -0.29771,
@@ -227,7 +221,7 @@
       },
       {
         "type": "DrawFlame",
-        "flameColor": "ffa66500",
+        "flameColor": "f2555500",
         "flameRadius": 0,
         "flameRadiusIn": 0,
         "lightRadius": 64,

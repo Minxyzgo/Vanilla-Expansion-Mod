@@ -47,9 +47,9 @@
             "name": "ve-team-projector-zenith-flipped-glow",
             "color": "ffffff",
             "blending": "additive",
-            "growX": 0.302, "growY": -0.338,
-            "rotation": 90,
-            "moveX": 10.071,
+            "growX": 0.33333, "growY": -0.29771,
+            "rotation": 90,//0.302 -0.338
+            "moveX": 8.87052,//10.071
             "outline": false,
             "layer": 110.1,
             "progress": {
@@ -64,7 +64,63 @@
                 },
                 {
                   "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.3"
+                },
+                {
+                  "op": "add",
+                  "other": {
+                    "type": "time",
+                    "ops": [
+                {
+                  "op": "loop",
+                  "time": 24
+                },
+                {
+                  "op": "inv"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.3"
+                }    ]
+                  }
+                },
+                {
+                  "op": "add",
+                  "other": {
+                    "type": "time",
+                    "ops": [
+                {
+                  "op": "loop",
+                  "time": 24
+                },
+                {
+                  "op": "inv"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "curve",
                   "interp": "pow3In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.4"
+                }    ]
+                  }
                 },
                 {
                   "op": "mul",
@@ -84,7 +140,63 @@
                 },
                 {
                   "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.3"
+                },
+                {
+                  "op": "add",
+                  "other": {
+                    "type": "time",
+                    "ops": [
+                {
+                  "op": "loop",
+                  "time": 24
+                },
+                {
+                  "op": "inv"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.3"
+                }    ]
+                  }
+                },
+                {
+                  "op": "add",
+                  "other": {
+                    "type": "time",
+                    "ops": [
+                {
+                  "op": "loop",
+                  "time": 24
+                },
+                {
+                  "op": "inv"
+                },
+                {
+                  "op": "curve",
+                  "interp": "pow2In"
+                },
+                {
+                  "op": "curve",
                   "interp": "pow3In"
+                },
+                {
+                  "op": "mul",
+                  "amount": "0.4"
+                }    ]
+                  }
                 },
                 {
                   "op": "mul",

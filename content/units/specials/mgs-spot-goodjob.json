@@ -75,9 +75,7 @@
           "xScl": 1,
           "layer": 110,
           "moveY": -10,
-          "outline": false,
-          "mixColor": "ffffff",
-          "mixColorTo": "ffffff"
+          "outline": false
         }
       ],
       "bullet": {

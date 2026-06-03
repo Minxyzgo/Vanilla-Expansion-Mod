@@ -208,6 +208,7 @@ newBlock("overdriver",OverdriveProjector);
 newBlock("mend-dome",MendProjector);
 newBlock("team-projector-sharded",GenericCrafter);
 newBlock("team-projector-crux",GenericCrafter);
+newBlock("team-projector-omega",GenericCrafter);
 newBlock("team-projector-zenith",GenericCrafter);
 newBlock("team-projector-zenith-flipped",GenericCrafter);
 newBlock("team-projector-erekir-sharded",GenericCrafter);

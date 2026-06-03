@@ -758,7 +758,7 @@
       "inputLiquids": [ "slag/0.5","water/0.5" ],
       "inputPower": 2
       "outputLiquids": [ "water/0.5" ],
-      "outputItems": [ "scrap/10" ],
+      "outputItems": [ "scrap/30" ],
       "outputHeat": 50,
       "craftTime": 120,
       "visual": {
@@ -806,7 +806,7 @@
       "inputLiquids": [ "slag/1","cryofluid/0.5" ],
       "inputPower": 2.5
       "outputLiquids": [ "cryofluid/0.5" ],
-      "outputItems": [ "scrap/10" ],
+      "outputItems": [ "scrap/30" ],
       "outputHeat": 100,
       "craftTime": 60,
       "visual": {

@@ -36,7 +36,7 @@
     "add": [ "thorium","aluminium","quartz","chromium","cobalt","ferrum","silver","tantalum","beryllium","graphite","tungsten","motiphite","technolite","chrysopite","finallite" ]
   },
   "immunities": [ "dusty","frozen" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "stepSound": "mechStepSmall",
   "stepSoundPitch": 0.95,
   "stepSoundPitchRange": 0.1,

@@ -31,5 +31,5 @@
   "armor": 12,
   "researchCostMultiplier": 0.1,
   "crushDamageMultiplier": 0.05,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

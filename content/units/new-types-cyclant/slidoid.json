@@ -38,7 +38,7 @@
   "stepSoundVolume": 0.6,
   "loopSound": "loopHover",
   "loopSoundVolume": 0.4,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "slidoid-bolt",

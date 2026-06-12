@@ -48,5 +48,5 @@
     "parent": "carbon-shale-smelter"
   },
   "researchCostMultiplier": 0.3,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","phoon" ]
 }

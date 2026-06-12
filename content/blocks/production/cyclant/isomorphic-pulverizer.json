@@ -29,5 +29,5 @@
   "ambientSoundVolume": 0.025,
   "research": "quartz-separator",
   "squareSprite": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

@@ -29,7 +29,7 @@
   "loopSound": "loopDrill",
   "loopSoundVolume": 0.018,
   "createScorch": true,
-  "shownPlanets": [ "serpulo","cyclant","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","phoon","thavina" ],
   //"defaultController": "MinerAI",
   "defaultCommand": "mine",
   "deathSound": "blockExplode3",

@@ -4,5 +4,6 @@
   "cost": 0.9,
   "hardness": 7,
   "research": "ferrum",
-  "databaseTag": "natural-item"
+  "databaseTag": "natural-item",
+  "shownPlanets": [ "maress" ]
 }

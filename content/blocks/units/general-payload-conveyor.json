@@ -4,10 +4,10 @@
   "category": "units",
   "size": 2,
   "research": {
-    "parent": "small-unit-constructor"
+    "parent": "small-unit-constructor-sharded"
   },
   "canOverdrive": true,
-  "shownPlanets": [ "maress","sitrullus" ],
+  "shownPlanets": [ "maress","sitrullus","thavina" ],
   "payloadLimit": 2.5,
   "moveForce": 133,
   "moveTime": 45

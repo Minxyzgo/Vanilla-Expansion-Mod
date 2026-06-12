@@ -128,7 +128,7 @@
       ],
       "shootWarmupSpeed": 0.25,
       "bullet": {
-        "speed": 999,
+        "speed": 99999,
         "spawnUnit": "surge-missile",
         "shootEffect": {
           "type": "MultiEffect",

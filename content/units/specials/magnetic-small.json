@@ -24,7 +24,7 @@
     "objectives": [ "magnetic" ],
     "requirements": [ "silicon/2500","fibralt/1000","thorium/1500" ]
   },
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "magnetic-small-weapon",

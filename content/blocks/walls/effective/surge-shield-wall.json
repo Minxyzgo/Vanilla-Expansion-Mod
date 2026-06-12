@@ -13,7 +13,7 @@
   "research": "blocking-wall",
   "size": 2,
   "category": "defense",
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ],
   "requirements": [
     "surge-alloy/30","phase-fabric/10","silicon/5"
   ],

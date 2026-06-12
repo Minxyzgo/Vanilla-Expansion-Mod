@@ -38,5 +38,6 @@
       "frontColor": "00000000",
       "backColor": "00000000"
     }
-  }
+  },
+  "shownPlanets": { "add": [ "thavina" ] }
 }

@@ -29,5 +29,5 @@
   "researchCostMultiplier": 0.1,
   "requirements": [ "plastanium/30","lead/195","silicon/160","fibralt/100" ],
   "health": 800,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina","maress" ],
 }

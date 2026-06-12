@@ -11,5 +11,5 @@
     "parent": "cobalt-rail-underflow-gate"
   },
   "squareSprite": false,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
 }

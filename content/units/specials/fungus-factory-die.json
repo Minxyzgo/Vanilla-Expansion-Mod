@@ -31,5 +31,6 @@
   "drawShields": false,
   "fallEngineEffect": "none",
   "fallEffect": "none",
-  "hidden": true
+  "hidden": true,
+  "deathShake": 0
 }

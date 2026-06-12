@@ -8,5 +8,6 @@
   "research": {
     "parent": "armored-conveyor",
     "objectives": [ "armored-conveyor" ]
-  }
+  },
+  "shownPlanets": [ "serpulo","thavina" ]
 }

@@ -4,6 +4,7 @@
     "aluminium/40","graphite/70"
   ],
   "category": "crafting"
+  "shownPlanets": [ "maress" ],
   "research": {
     "parent": "core-singularity-root"
   },

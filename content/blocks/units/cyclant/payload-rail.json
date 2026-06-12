@@ -7,5 +7,5 @@
     "parent": "ground-fabricator"
   },
   "canOverdrive": true,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

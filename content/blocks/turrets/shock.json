@@ -166,5 +166,5 @@
     "power": 3.8
   },
   "crushDamageMultiplier": 0.05,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

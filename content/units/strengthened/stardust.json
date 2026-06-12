@@ -23,7 +23,7 @@
   },
   "itemCapacity": 30,
   "mineBeamOffset": 3.75,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "abilities": [
     {
       "type": "RepairFieldAbility",

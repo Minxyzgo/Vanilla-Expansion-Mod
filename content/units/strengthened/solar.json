@@ -21,7 +21,7 @@
   "lightColor": "ffa665",
   "alwaysShootWhenMoving": true,
   "immunities": [ "frozen" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "range": 280,
   "weapons": [
     {

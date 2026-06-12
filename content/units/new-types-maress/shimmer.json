@@ -30,6 +30,7 @@
       }
     ]
   },
+  "shownPlanets": [ "maress","thavina" ],
   "weapons": [
     {
       "name": "shimmer-weapon",

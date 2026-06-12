@@ -24,6 +24,7 @@
   "research": {
     "parent": "shimmer"
   },
+  "shownPlanets": [ "maress","thavina" ],
   "weapons": [
     {
       "name": "daybreak-weapon",

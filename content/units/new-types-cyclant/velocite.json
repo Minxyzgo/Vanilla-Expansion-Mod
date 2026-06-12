@@ -34,7 +34,7 @@
   "stepSoundPitch": 1,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.3,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "mount-purple-weapon",

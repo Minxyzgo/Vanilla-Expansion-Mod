@@ -25,5 +25,5 @@
   },
   "chainEffect": true,
   "consumesTap": false,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

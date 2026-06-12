@@ -30,7 +30,6 @@
     "liquids": [ "hydrogen/0.2" ]
     "power": 5.5
   },*/
-  "maxEfficiency": 2,
   "recipe": [
     {
       "inputItems": [ "ve-red-soil/15" ],
@@ -51,6 +50,7 @@
       "inputItems": [ "ve-red-soil/15" ],
       "inputLiquids": [ "hydrogen/0.2" ],
       "inputHeat": 20,
+      "maxEfficiency": 4,
       "inputPower": 1.5,
       "outputItems": [ "ve-ferrum/12","silicon/9" ],
       "outputLiquids": [ "water/0.3333333333" ],
@@ -91,6 +91,7 @@
       "inputItems": [ "ve-ferric-shale-cobble/5","coal/6" ],
       "inputHeat": 20,
       "inputPower": 2,
+      "maxEfficiency": 2,
       "outputItems": [ "ve-ferrum/8","pyratite/4","sand/5" ],
       "craftTime": 120,
       "visual": {
@@ -117,6 +118,7 @@
       "inputLiquids": [ "hydrogen/0.2" ],
       "inputHeat": 20,
       "inputPower": 2,
+      "maxEfficiency": 4,
       "outputItems": [ "ve-ferrum/12","ve-quartz/6" ],
       "outputLiquids": [ "water/0.333333333333" ],
       "craftTime": 120,
@@ -141,6 +143,7 @@
       }
     }
   ],
+  "shownPlanets": [ "maress" ],
   "ambientSound": "loopSmelter",
   "ambientSoundVolume": 0.14,
   "craftEffect": "drillSteam",

@@ -46,7 +46,7 @@
     "add": [ "thorium","aluminium","quartz","chromium","cobalt","ferrum","silver","tantalum","beryllium","graphite","tungsten","motiphite","technolite","chrysopite","finallite" ]
   },
   "immunities": [ "electrified","frozen" ],
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "itemOffsetY": -0.5,
   "abilities": [
     {

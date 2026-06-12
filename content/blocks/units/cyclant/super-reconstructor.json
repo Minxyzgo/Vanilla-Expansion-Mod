@@ -26,5 +26,5 @@
   },
   "researchCostMultiplier": 0.3,
   "createSound": "unitCreateBig",
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
 }

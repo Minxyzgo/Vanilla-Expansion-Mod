@@ -20,7 +20,7 @@
   "itemCapacity": 10,
   "immunities": [ "electrified","frozen" ],
   "lightColor": "ffa665",
-  "shownPlanets": [ "cyclant","phoon","maress","serpulo" ],
+  "shownPlanets": [ "cyclant","phoon","maress","serpulo","thavina" ],
   "weapons": [
     {
       "name": "aurora-weapon",

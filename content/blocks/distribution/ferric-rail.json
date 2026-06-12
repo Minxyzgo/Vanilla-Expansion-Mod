@@ -18,5 +18,5 @@
   "pushUnits": false,
   "crushDamageMultiplier": 0.2,
   "drawCracks": false,
-  "shownPlanets": [ "maress" ]
+  "shownPlanets": [ "maress","thavina" ]
 }

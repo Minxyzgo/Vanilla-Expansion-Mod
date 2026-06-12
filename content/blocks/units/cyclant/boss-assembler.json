@@ -13,7 +13,7 @@
       }
     ]
   },
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "size": 7,
   "droneType": "assembly-drone-hyper",
   "droneConstructTime": 600,

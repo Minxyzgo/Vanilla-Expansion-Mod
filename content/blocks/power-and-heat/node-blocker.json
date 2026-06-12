@@ -10,5 +10,5 @@
   "absorbLasers": false,
   "schematicPriority": 10,
   "buildCostMultiplier": 1,
-  "shownPlanets": [ "serpulo","cyclant","maress","sitrullus","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","sitrullus","phoon","thavina" ]
 }

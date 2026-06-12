@@ -6,6 +6,7 @@
   "itemCapacity": 200,
   "conductivePower": false,
   "hasPower": false,
+  "shownPlanets": [ "maress" ],
   "recipe": [
     {
       "inputItems": [ "silver/20","red-soil/100" ],

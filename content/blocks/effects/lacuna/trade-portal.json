@@ -11,6 +11,7 @@
       "items": [ "silver/100" ]
     }
   },
+  "shownPlanets": [ "sitrullus" ],
   "outputItems": [ "silicon/100","graphite/100" ],
   "itemCapacity": 1000,
   "craftTime": 120,

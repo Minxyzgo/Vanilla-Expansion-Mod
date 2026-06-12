@@ -41,7 +41,7 @@
   "targetFlags": [
     "repair"
   ],
-  "shownPlanets": [ "serpulo","cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "stepSound": "walkerStep",
   "stepSoundPitch": 1,
   "stepSoundPitchRange": 0.1,

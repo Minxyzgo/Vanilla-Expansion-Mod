@@ -13,7 +13,7 @@
   "priority": -1,
   "engineSize": 2,
   "rotateSpeed": 4,
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "range": 140,
   "research": "small-unit-constructor-sharded",
   "weapons": [
@@ -257,6 +257,5 @@
         "killShooter": true
       }
     }
-  ],
-  "shownPlanets": [ "sitrullus" ]
+  ]
 }

@@ -23,5 +23,5 @@
   },
   "researchCostMultiplier": 0.2,
   "crushDamageMultiplier": 0.25,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
 }

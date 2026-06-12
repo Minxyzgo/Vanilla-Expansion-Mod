@@ -46,7 +46,7 @@
     "parent": "melon-cell"
   },
   "researchCostMultiplier": 0.01,
-  "shownPlanets": [ "sitrullus","maress" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "itemDurationMultipliers": {
     "plant-matter": 0.75,
     "nitroalkoss": 2,//0.9

@@ -10,7 +10,7 @@
   "armor": 5,
   "engineOffset": 12,
   "immunities": [ "frozen" ],
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "range": 240,
   "research": "zenith-small-sharded",
   "weapons": [

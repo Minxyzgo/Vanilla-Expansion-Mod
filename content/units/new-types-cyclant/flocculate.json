@@ -37,7 +37,7 @@
   "researchCostMultiplier": 0.03,
   "loopSound": "loopHover",
   "loopSoundVolume": 0.15,
-  "shownPlanets": [ "cyclant","phoon","maress","serpulo","sitrullus" ],
+  "shownPlanets": [ "cyclant","phoon","maress","serpulo","thavina" ],
   "parts": [
     {
       "type": "HoverPart",

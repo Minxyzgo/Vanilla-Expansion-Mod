@@ -133,5 +133,5 @@
     ]
   },
   "researchCostMultiplier": 0.01,
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
 }

@@ -53,7 +53,7 @@
   "stepSoundPitch": 0.95,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.5,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "weapons": [
     {
       "name": "astrologe-weapon",

@@ -30,6 +30,7 @@
       }
     ]
   },
+  "shownPlanets": [ "maress","thavina" ],
   "range": 280,
   "weapons": [
     {

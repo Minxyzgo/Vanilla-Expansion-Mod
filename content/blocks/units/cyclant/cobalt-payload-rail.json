@@ -14,5 +14,5 @@
   },
   "canOverdrive": true,
   "moveTime": 15,
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
 }

@@ -39,7 +39,7 @@
   "tankMoveSound": "lbp3TankTreads",
   "tankMoveVolume": 0.2,
   "floorMultiplier": 0.8,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "arrange-turret",

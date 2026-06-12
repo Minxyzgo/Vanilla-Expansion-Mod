@@ -15,5 +15,5 @@
   "displayedSpeed": 15,
   "buildCostMultiplier": 1.5,
   "crushDamageMultiplier": 0.2,
-  "shownPlanets": [ "sitrullus" ]
+  "shownPlanets": [ "sitrullus","thavina" ]
 }

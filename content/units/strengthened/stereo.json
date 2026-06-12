@@ -20,7 +20,7 @@
   "researchCostMultiplier": 0.01,
   "immunities": [ "electrified","interrupted","frozen" ],
   "deathSound": "si2Explode",
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 11,

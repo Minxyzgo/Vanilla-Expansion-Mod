@@ -30,7 +30,7 @@
   "buildSpeed": 8,
   "buildBeamOffset": 10.25,
   "immunities": [ "electrified","interrupted","burning","frozen","dusty" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "researchCostMultiplier": 0.03,
   "stepSound": "mechStepHeavy",
   "stepSoundPitch": 0.75,

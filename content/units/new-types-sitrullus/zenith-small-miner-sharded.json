@@ -21,7 +21,7 @@
   "mineItems": {
     "add": [ "aluminium","quartz","chromium","cobalt","ferrum","silver","tantalum","beryllium","graphite","tungsten","motiphite","technolite","chrysopite","finallite" ]
   },
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "research": "zenith-small-sharded"
   "abilities": [
     {
@@ -256,6 +256,5 @@
         "killShooter": true
       }
     }
-  ],
-  "shownPlanets": [ "sitrullus" ]
+  ]
 }

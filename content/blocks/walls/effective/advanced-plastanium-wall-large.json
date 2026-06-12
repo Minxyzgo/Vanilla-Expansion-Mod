@@ -23,7 +23,7 @@
   "priority": -2,
   "conductivePower": false,
   "allowRectanglePlacement": true,
-  "shownPlanets": [ "serpulo","cyclant","phoon","maress" ],
+  "shownPlanets": [ "serpulo","cyclant","phoon","maress","thavina" ],
   "destroySound": "blockExplodeWall",
   "destroySoundVolume": 1.5
 }

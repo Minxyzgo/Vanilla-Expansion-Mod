@@ -1,6 +1,6 @@
 {
   //"type": "GenericCrafter",
-  "requirements": [ "aluminium/200","cobalt/120","graphite/110","silicon/90","surge-alloy/60" ],
+  "requirements": [ "aluminium/200","plastanium/120","graphite/110","silicon/90","surge-alloy/60" ],
   "category": "power",
   "hasItems": true,
   "hasPower": true,
@@ -49,5 +49,5 @@
     ]
   },
   "researchCostMultiplier": 0.3,
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
 }

@@ -121,5 +121,6 @@
         "pierceArmor": true
       }
     }*/
-  }
+  },
+  "shownPlanets": { "add": [ "thavina" ] }
 }

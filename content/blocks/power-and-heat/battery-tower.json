@@ -16,7 +16,7 @@
   "health": 2000,
   "armor": 8,
   "outputsPower": true,
-  "shownPlanets": [ "sitrullus","maress" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "laserColor2": "fb9567",
   "enableDrawStatus": false,
   "drawTeamOverlay": false

@@ -46,5 +46,5 @@
   },
   "hasLiquids": true,
   "liquidCapacity": 60,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

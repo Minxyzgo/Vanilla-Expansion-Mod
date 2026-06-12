@@ -6,6 +6,7 @@
   "itemCapacity": 200,
   "conductivePower": false,
   "hasPower": false,
+  "shownPlanets": [ "maress" ],
   "recipe": [
     {
       "inputItems": [ "aluminium/100","tantalum/100","silver/20" ],

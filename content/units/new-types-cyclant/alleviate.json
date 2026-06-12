@@ -35,7 +35,7 @@
   "lightColor": "90dbff",
   "loopSound": "loopHover",
   "loopSoundVolume": 0.2,
-  "shownPlanets": [ "cyclant","phoon","maress","sitrullus" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "parts": [
     {
       "type": "HoverPart",
@@ -94,7 +94,7 @@
         "hitColor": "90dbff",
         "smokeEffect": "shootBigSmoke",
         "spawnUnit": "alleviate-missile",
-        "speed": 999
+        "speed": 99999
       }
     }
   ]

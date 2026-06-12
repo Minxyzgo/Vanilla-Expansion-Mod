@@ -23,5 +23,5 @@
     "maxPitch": 1,
     "effect": "doorcloselarge"
   },
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

@@ -39,5 +39,5 @@
     "items": [ "sand/2" ]
   },
   "researchCost": [ "aluminium/400","graphite/100" ],
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

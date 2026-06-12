@@ -21,5 +21,6 @@
   "spreadConversion": 0,
   "maxSpread": 1,
   "databaseTag": "liquid-fluid",
-  "coolant": false
+  "coolant": false,
+  "shownPlanets": [ "thavina" ]
 }

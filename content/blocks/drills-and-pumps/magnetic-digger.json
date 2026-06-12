@@ -51,5 +51,5 @@
   "blockedItems": [ "spore-pod" ],
   "drawRim": true,
   "heatColor": "cc8270",
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

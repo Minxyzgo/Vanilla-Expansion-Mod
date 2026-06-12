@@ -18,5 +18,5 @@
   "size": 1,
   "requirements": [ "aluminium/40","lead/30","silicon/30" ],
   "health": 200,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

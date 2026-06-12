@@ -10,5 +10,5 @@
   "payloadLimit": 5,
   "moveTime": 60,
   "moveForce": 335,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

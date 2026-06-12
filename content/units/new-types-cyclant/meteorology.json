@@ -38,7 +38,7 @@
   "researchCostMultiplier": 0.05,
   "loopSound": "loopHover",
   "loopSoundVolume": 0.8,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "abilities": [
     {
       "type": "EnergyFieldAbility",
@@ -179,7 +179,8 @@
           "lifetime": 20
         },
         "smokeEffect": "none",
-        "spawnUnit": "meteorology-orb"
+        "spawnUnit": "meteorology-orb",
+        "speed": 99999
       },
       "parts": [
         {

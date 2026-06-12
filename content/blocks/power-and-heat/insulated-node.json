@@ -17,6 +17,6 @@
   "health": 300,
   "drawRange": true,
   "absorbLasers": true,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ],
   "drawTeamOverlay": false
 }

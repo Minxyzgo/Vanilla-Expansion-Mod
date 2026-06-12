@@ -10,5 +10,5 @@
     "parent": "valve-sort"
   },
   "crushDamageMultiplier": 0.2,
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

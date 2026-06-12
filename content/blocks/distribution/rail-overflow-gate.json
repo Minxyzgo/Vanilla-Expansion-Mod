@@ -7,5 +7,5 @@
   "buildCostMultiplier": 4,
   "researchCostMultiplier": 0.1,
   "squareSprite": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

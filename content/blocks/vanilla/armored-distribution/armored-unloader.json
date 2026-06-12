@@ -6,5 +6,6 @@
   "regionRotated1": 1,
   "solid": false,
   "research": "armored-router",
-  "allowCoreUnload": true
+  "allowCoreUnload": true,
+  "shownPlanets": [ "serpulo","thavina" ]
 }

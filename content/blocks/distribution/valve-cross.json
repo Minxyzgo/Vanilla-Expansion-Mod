@@ -9,5 +9,5 @@
     "parent": "ferric-conveyor"
   },
   "researchCost": [ "ferrum/20" ],
-  "shownPlanets": [ "sitrullus" ]
+  "shownPlanets": [ "sitrullus","thavina","maress" ]
 }

@@ -30,6 +30,6 @@
     "parent": "junior-refabricator"
   },
   "createSound": "unitCreateBig",
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
   //"regionSuffix": "-rail"
 }

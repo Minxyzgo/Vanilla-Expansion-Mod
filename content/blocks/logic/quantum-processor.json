@@ -17,5 +17,6 @@
   "consumes": { "power": 5 },
   "consumesPower": true,
   "hasPower": true,
-  "conductivePower": true
+  "conductivePower": true,
+  "shownPlanets": [ "maress" ]
 }

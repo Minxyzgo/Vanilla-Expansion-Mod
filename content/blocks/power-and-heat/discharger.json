@@ -1,6 +1,6 @@
 {
   //"type": "ConsumeGenerator",
-  "requirements": [ "lead/100","graphite/80","silicide/60","chromium/30" ],
+  "requirements": [ "lead/100","graphite/80","chromium/30","plastanium/150" ],
   "category": "power",
   "powerProduction": 297.5,
   "itemDuration": 40,
@@ -71,5 +71,5 @@
   },
   "researchCostMultiplier": 0.05,
   "generateEffectRange": 0,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

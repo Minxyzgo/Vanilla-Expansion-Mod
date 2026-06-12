@@ -8,12 +8,13 @@
   "canDrown": true,
   "rotateSpeed": 7,
   "groundLayer": 99.99,
-  "shownPlanets": [ "serpulo","cyclant","phoon" ],
+  //"shownPlanets": [ "serpulo","cyclant","phoon" ],
   "immunities": [ "dusty","wet","muddy" ],
   "drawBody": false,
   "shadowElevation": 0.1,
   "health": 200,
   "drawSoftShadow": false,
+  "hidden": true,
   "parts": [
     {
       "type": "RegionPart",

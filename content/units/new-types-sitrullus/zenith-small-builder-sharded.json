@@ -17,7 +17,7 @@
   "buildSpeed": 1,
   "isEnemy": false,
   "defaultCommand": "rebuild",
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "research": "zenith-small-miner-sharded"
   "weapons": [
     {
@@ -259,6 +259,5 @@
         "killShooter": true
       }
     }
-  ],
-  "shownPlanets": [ "sitrullus" ]
+  ]
 }

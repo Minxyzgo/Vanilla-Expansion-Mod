@@ -43,7 +43,7 @@
   "targetable": false,
   "lightColor": "98ffa9",
   "immunities": [ "frozen","disarmed" ],
-  "shownPlanets": [ "cyclant","phoon","maress","serpulo","sitrullus" ],
+  "shownPlanets": [ "cyclant","phoon","maress","serpulo","thavina" ],
   "abilities": [
     {
       "type": "RegenAbility",

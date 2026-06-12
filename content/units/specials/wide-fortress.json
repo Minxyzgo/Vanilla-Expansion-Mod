@@ -14,7 +14,7 @@
   },
   "mechSideSway": 1.08,
   "lightColor": "ffa665",
-  "shownPlanets": [ "serpulo","cyclant","phoon","maress" ],
+  "shownPlanets": [ "serpulo","cyclant","phoon","maress","thavina" ],
   "loopSound": "songForDeniseCompressed",
   "immunities": [ "dusty" ],
   "loopSoundVolume": 1,

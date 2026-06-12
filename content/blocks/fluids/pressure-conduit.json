@@ -19,5 +19,5 @@
   "bridgeReplacement": "isomorphic-bridge-conduit",
   "crushDamageMultiplier": 0.2,
   "drawTeamOverlay": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]    
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]    
 }

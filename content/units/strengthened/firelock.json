@@ -25,7 +25,7 @@
   "stepSoundPitch": 0.9,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.35,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "range": 464,
   "weapons": [
     {

@@ -45,5 +45,5 @@
   "ambientSound": "lbp3PlasmaProjectile",
   "drillEffect": "mineHuge",
   "drawRim": true,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
 }

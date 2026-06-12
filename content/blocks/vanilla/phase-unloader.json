@@ -11,6 +11,6 @@
     "parent": "phase-conveyor",
     "objectives": [ "unloader" ]
   },
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
   //"health": 200
 }

@@ -23,5 +23,5 @@
   "crushDamageMultiplier": 0.2,
   "liquidCapacity": 150,
   "squareSprite": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

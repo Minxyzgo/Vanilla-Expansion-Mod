@@ -29,7 +29,7 @@
     "objectives": [ "boss-assembler" ]
   },
   "immunities": [ "frozen" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "large-bullet-mount-core",

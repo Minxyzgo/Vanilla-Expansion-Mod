@@ -19,7 +19,7 @@
   "mineItems": {
     "add": [ "aluminium","quartz","chromium","cobalt","ferrum","silver","tantalum","beryllium","graphite","tungsten","motiphite","technolite","chrysopite","finallite" ]
   },
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "research": "zenith-small-builder-sharded"
   "range": 140,
   "abilities": [
@@ -341,6 +341,5 @@
         "killShooter": true
       }
     }
-  ],
-  "shownPlanets": [ "serpulo","cyclant","sitrullus" ]
+  ]
 }

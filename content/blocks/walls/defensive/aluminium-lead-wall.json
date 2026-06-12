@@ -5,5 +5,5 @@
   "research": "aluminium-wall",
   "health": 480,
   "researchCostMultiplier": 0.2,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

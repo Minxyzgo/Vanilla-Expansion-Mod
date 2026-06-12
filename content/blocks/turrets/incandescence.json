@@ -222,7 +222,7 @@
     },*/
     "power": 3.333333333
   },
-  "shownPlanets": [ "maress" ],
+  "shownPlanets": [ "maress","thavina" ],
   "drawer": {
     "type": "DrawMulti",
     "drawers": [

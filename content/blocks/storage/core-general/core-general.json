@@ -17,7 +17,7 @@
   "crushDamageMultiplier": 0.2,
   "rebuildable": true,
   "drawTeamOverlay": false,
-  "shownPlanets": [ "sitrullus","maress" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "connectedPower": true,
   "conductivePower": true,
   "hasPower": true,

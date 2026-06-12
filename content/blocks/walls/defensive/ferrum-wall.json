@@ -11,5 +11,5 @@
   "research": {
     "parent": "core-nucleus-root-sitrullus"
   },
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

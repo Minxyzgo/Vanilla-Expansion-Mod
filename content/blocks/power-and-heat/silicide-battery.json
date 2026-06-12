@@ -19,5 +19,5 @@
   "armor": 8,
   "research": "power-battery",
   "baseExplosiveness": 2,
-  "shownPlanets": [ "cyclant","serpulo","maress","phoon" ]
+  "shownPlanets": [ "cyclant","serpulo","maress","phoon","thavina" ]
 }

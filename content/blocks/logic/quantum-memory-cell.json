@@ -8,5 +8,6 @@
   },
   "health": 1000,
   "armor": 32,
-  "memoryCapacity": 2048
+  "memoryCapacity": 2048,
+  "shownPlanets": [ "maress" ]
 }

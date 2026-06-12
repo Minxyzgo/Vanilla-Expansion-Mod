@@ -59,7 +59,7 @@
           ]
         },
         "smokeEffect": "none",
-        "speed": 999,
+        "speed": 99999,
         "recoil": -0.05
       }
     },
@@ -441,6 +441,5 @@
         "reflectable": false
       }
     }
-  ],
-  "shownPlanets": [ "serpulo","cyclant","sitrullus" ]
+  ]
 }

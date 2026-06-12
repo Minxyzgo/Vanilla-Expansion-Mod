@@ -18,7 +18,7 @@
   "engineOffset": 11,
   "engineSize": 3.5,
   "mineBeamOffset": 16.5,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 12,

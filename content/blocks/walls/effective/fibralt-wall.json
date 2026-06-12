@@ -39,5 +39,5 @@
   "research": "advanced-plastanium-wall",
   "destroySound": "blockExplodeWall",
   "destroySoundVolume": 1,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

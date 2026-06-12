@@ -33,7 +33,7 @@
   ],
   "immunities": [ "frozen" ],
   "lightColor": "98ffa9",
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "line-weapon",

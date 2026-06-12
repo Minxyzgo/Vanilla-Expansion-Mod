@@ -28,6 +28,7 @@
     }
   },
   "coolantMultiplier": 2,
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "research": {
     "parent": "cobalt-payload-rail",
     "objectives": [ 

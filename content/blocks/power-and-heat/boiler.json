@@ -7,6 +7,7 @@
   "conductivePower": false,
   "hasLiquids": true,
   "liquidCapacity": 30,
+  "shownPlanets": [ "maress","thavina" ]
   "recipe": [
     {
       "inputItems": [ "coal/1" ],

@@ -3,7 +3,7 @@
   "requirements": [ "silver/1" ],
   "maxDisplayDimensions": 400,
   "research": "core-nucleus-root-sitrullus",
-  "shownPlanets": [ "maress","sitrullus" ],
+  "shownPlanets": [ "maress","sitrullus","thavina" ],
   "conductivePower": true,
   "hasPower": true,
   "baseExplosiveness": 1,

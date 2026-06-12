@@ -18,6 +18,6 @@
   "researchCostMultiplier": 0.3,
   "size": 2,
   "placeableLiquid": true,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ],
   "drawTeamOverlay": false
 }

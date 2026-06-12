@@ -38,7 +38,8 @@
   "priority": -3,
   "conductivePower": false,
   "allowRectanglePlacement": true,
-  "shownPlanets": [ "maress" ],
+  "shownPlanets": [ "maress","thavina" ],
   "destroySound": "blockExplode3",
+  "research": "silicide-ferrum-wall-huge",
   "destroySoundVolume": 3
 }

@@ -35,7 +35,7 @@
   "rebuildable": true,
   "ambientSoundVolume": 0.06,
   "ambientSound": "loopShield",
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ],
   "drawTeamOverlay": false,
   "destroySound": "blockExplodeWall",
   "destroySoundVolume": 1.5

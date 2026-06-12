@@ -55,7 +55,7 @@
     }
   ],
   "lightColor": "ffa665",
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "magnetic-weapon",

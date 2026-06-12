@@ -16,6 +16,7 @@
       }
     ]
   },
+  "shownPlanets": [ "maress" ],
   "research": "core-singularity-root",
   "size": 3,
   "solid": false,

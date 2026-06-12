@@ -36,7 +36,7 @@
     "requirements": [ "silicon/1700","titanium/1500","plastanium/1300" ]
   },
   "immunities": [ "electrified","disarmed","pog","overclock","dusty","frozen","overdrive" ],
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "weapons": [
     {
       "name": "firelock-bullet",

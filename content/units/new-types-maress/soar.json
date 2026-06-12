@@ -16,6 +16,7 @@
   "research": {
     "parent": "uprise"
   },
+  "shownPlanets": [ "maress","thavina" ],
   "weapons": [
     {
       "name": "soar-weapon2",

@@ -36,7 +36,7 @@
   "stepSoundPitch": 1,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.5,
-  "shownPlanets": [ "cyclant","phoon","maress","serpulo" ],
+  "shownPlanets": [ "cyclant","phoon","maress","serpulo","thavina" ],
   "weapons": [
     {
       "name": "blade-weapon",

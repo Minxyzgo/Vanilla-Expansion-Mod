@@ -22,7 +22,7 @@
   ],
   "lightColor": "ffa665",
   "autoDropBombs": true,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 6,

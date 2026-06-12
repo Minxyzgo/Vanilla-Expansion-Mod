@@ -60,5 +60,5 @@
   "itemCapacity": 3600,
   "hasItems": true,
   "createSound": [ "si2EntranceOpen","si2EntranceClose" ],
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","thavina" ]
 }

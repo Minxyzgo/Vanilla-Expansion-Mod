@@ -38,7 +38,7 @@
   "stepSoundVolume": 0.8,
   "loopSound": "loopHover",
   "loopSoundVolume": 0.6,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "hovopid-cog",

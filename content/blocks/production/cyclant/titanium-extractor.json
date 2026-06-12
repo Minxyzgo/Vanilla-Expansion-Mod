@@ -39,5 +39,5 @@
     ]
   },
   "researchCostMultiplier": 0.1,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon" ]
 }

@@ -22,7 +22,7 @@
   "stepSoundPitch": 1,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.25,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "abilities": [
     {
       "type": "ShieldRegenFieldAbility",

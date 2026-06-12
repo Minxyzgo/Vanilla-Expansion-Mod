@@ -21,7 +21,7 @@
   "fallEffect": "fireHit",
   "immunities": [ "dusty" ],
   "lowAltitude": true,
-  "shownPlanets": [ "sitrullus","maress" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "range": 200,
   "research": "frost-fortress",
   "weapons": [

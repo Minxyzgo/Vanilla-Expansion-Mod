@@ -17,6 +17,6 @@
   "laserColor2": "ffd37f",
   "laserWidth": 0.5,
   "researchCostMultiplier": 0.3,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ],
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ],
   "drawTeamOverlay": false
 }

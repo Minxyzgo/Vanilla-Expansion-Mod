@@ -22,5 +22,5 @@
   "drawTeamOverlay": false,
   "pushUnits": false,
   "drawCracks": false,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
 }

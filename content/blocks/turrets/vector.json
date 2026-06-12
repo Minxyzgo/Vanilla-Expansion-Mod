@@ -103,7 +103,7 @@
     },
     "power": 6
   },
-  "shownPlanets": [ "maress","sitrullus" ],
+  "shownPlanets": [ "maress","sitrullus","thavina" ],
   "drawer": {
     "type": "DrawTurret",
     "basePrefix": "silver-"

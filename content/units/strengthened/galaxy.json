@@ -30,7 +30,7 @@
   "buildBeamOffset": 4.75,
   "immunities": [ "electrified","interrupted","frozen","dusty" ],
   "researchCostMultiplier": 0.01,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 7.25,

@@ -14,5 +14,5 @@
   "crushDamageMultiplier": 0.05,
   "flammabilityScale": 0,
   "explosivenessScale": 0.25,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

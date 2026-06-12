@@ -33,6 +33,7 @@
   "ambientSoundVolume": 0.14,
   "updateEffect": "fuelburn",
   "updateEffectChance": 0.02,
+  "shownPlanets": [ "maress","thavina" ],
   "research": {
     "parent": "boiler",
     "objectives": [ 

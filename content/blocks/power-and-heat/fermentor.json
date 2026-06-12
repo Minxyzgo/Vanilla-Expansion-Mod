@@ -24,5 +24,6 @@
   "research": {
     "parent": "melon-cell"
   },
-  "researchCostMultiplier": 0.01
+  "researchCostMultiplier": 0.01,
+  "shownPlanets": [ "sitrullus" ]
 }

@@ -35,7 +35,7 @@
   "drownTimeMultiplier": 99999,
   "loopSound": "loopHover",
   "loopSoundVolume": 0.35,
-  "shownPlanets": [ "cyclant","phoon","maress","sitrullus" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 5,

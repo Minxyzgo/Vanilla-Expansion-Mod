@@ -63,5 +63,5 @@
     "power": 2.5
   },
   "researchCostMultiplier": 0.2,
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

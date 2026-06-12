@@ -10,5 +10,5 @@
   "armor": 6,
   "insulated": true,
   "hasPower": true,
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

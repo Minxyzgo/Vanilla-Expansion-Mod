@@ -4,7 +4,7 @@
   "size": 4,
   "maxBlockSize": 3,
   "category": "units",
-  "research": "standard-constructor",
+  "research": "standard-constructor-sharded",
   "researchCostMultiplier": 0.5,
   "filter": [ "element-ferric","element-silver","element-melonic","element-effective" ],
   "itemCapacity": 300,

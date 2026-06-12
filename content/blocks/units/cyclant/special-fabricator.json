@@ -53,6 +53,6 @@
     "power": 3.25
   },
   "createSound": "unitCreate",
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
   //"regionSuffix": "-rail"
 }

@@ -7,5 +7,6 @@
   "armor": 16,
   "buildCostMultiplier": 10,
   "size": 2,
-  "crushDamageMultiplier": 0.05
+  "crushDamageMultiplier": 0.05,
+  "buildVisibility": "sandboxOnly"
 }

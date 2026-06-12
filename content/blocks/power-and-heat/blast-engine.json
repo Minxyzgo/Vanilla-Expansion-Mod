@@ -13,6 +13,7 @@
     "fusion-fuel": 8
   },
   "requirements": [ "chromium/80","silicon/50","silicide/60","ferrum/40" ],
+  "shownPlanets": [ "maress","thavina" ],
   "research": {
     "parent": "spot-solar-pad",
     "objectives": [ 

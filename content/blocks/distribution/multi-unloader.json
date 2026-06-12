@@ -17,6 +17,6 @@
     ]
   },
   "squareSprite": false,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "dumpTime": 0.1
 }

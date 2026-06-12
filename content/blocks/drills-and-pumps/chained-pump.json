@@ -20,6 +20,6 @@
   "size": 1,
   "placeableLiquid": true,
   "squareSprite": false,
-  "shownPlanets": [ "sitrullus","maress" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "research": "silver-conduit"
 }

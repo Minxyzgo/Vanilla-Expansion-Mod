@@ -15,5 +15,5 @@
   },
   "health": 120,
   "underBullets": true,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

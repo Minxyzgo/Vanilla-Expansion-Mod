@@ -608,5 +608,5 @@
     }
   },
   "crushDamageMultiplier": 0.2,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

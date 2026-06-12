@@ -30,7 +30,7 @@
     "power": 2.5
   },
   "ambientSound": "loopTech",
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "ambientSoundVolume": 0.3,
   "craftEffect": "drillSteam",
   "drawer": {

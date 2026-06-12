@@ -128,5 +128,5 @@
   "researchCostMultiplier": 0.1,
   "ambientSound": "si2OverchargedLaserLoop",
   "ambientSoundVolume": 0.3,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
 }

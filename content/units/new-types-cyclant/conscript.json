@@ -42,7 +42,7 @@
   "tankMoveSound": "lbp3TankTreads",
   "tankMoveVolume": 0.1,
   "floorMultiplier": 0.95,
-  "shownPlanets": [ "cyclant","phoon","maress","serpulo" ],
+  "shownPlanets": [ "cyclant","phoon","maress","serpulo","thavina" ],
   "weapons": [
     {
       "name": "conscript-turret",

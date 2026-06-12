@@ -28,6 +28,6 @@
   "size": 1,
   "researchCostMultiplier": 0.1,
   "requirements": [ "aluminium/25","lead/45","silicon/40","titanium/35" ],
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "health": 200
 }

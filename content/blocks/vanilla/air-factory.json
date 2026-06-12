@@ -40,5 +40,6 @@
       "time": 1080,
       "requirements": [ "silicon/20","ferrum/10" ]
     }
-  ]}
+  ]},
+  "shownPlanets": { "add": [ "thavina" ] }
 }

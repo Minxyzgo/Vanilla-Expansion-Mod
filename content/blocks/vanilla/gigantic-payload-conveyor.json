@@ -10,5 +10,6 @@
   "payloadLimit": 9,
   "moveTime": 120,
   "moveForce": 603,
-  "placeableLiquid": true
+  "placeableLiquid": true,
+  "shownPlanets": [ "serpulo","thavina" ]
 }

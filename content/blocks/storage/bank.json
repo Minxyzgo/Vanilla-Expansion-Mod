@@ -16,5 +16,5 @@
   "researchCostMultiplier": 0.1,
   "armor": 6,
   "drawTeamOverlay": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

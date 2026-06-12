@@ -1,3 +1,8 @@
 {
-  "armor": 3
+  "armor": 3,
+  "shownPlanets": {
+    "add": [
+      "thavina"
+    ]
+  }
 }

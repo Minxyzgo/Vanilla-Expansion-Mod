@@ -8,5 +8,5 @@
     "parent": "thorium-wall-large",
     "objectives": [ "thorium-wall-large" ]
   },
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
 }

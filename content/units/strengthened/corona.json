@@ -23,7 +23,7 @@
   "deathSound": "si2ExplodeLoud",
   "immunities": [ "burning","melting","freezing","frozen" ],
   "lightColor": "ffa665",
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 38,

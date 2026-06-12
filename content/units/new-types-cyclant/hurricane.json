@@ -37,7 +37,7 @@
   "lightColor": "90dbff",
   "drownTimeMultiplier": 99999,
   "researchCostMultiplier": 0.05,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "engines": [
     {
       "x": 4.5,
@@ -4942,7 +4942,7 @@
       "predictTarget": false,
       "useAttackRange": false,
       "bullet": {
-        "speed": 999,
+        "speed": 99999,
         "spawnUnit": "hurricane-missile",
         "rangeOverride": 520,
         "shootEffect": {

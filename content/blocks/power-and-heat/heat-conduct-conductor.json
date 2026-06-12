@@ -24,5 +24,6 @@
       }
     ]
   },
-  "regionRotated1": 1
+  "regionRotated1": 1,
+  "shownPlanets": [ "maress","thavina" ]
 }

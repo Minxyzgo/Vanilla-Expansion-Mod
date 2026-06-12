@@ -570,5 +570,5 @@
   },
   "coolantMultiplier": 2,
   "crushDamageMultiplier": 0.2,
-  "shownPlanets": [ "sitrullus","maress" ]
+  "shownPlanets": [ "sitrullus","maress","thavina" ]
 }

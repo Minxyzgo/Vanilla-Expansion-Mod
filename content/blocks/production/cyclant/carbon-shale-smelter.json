@@ -32,5 +32,5 @@
     "parent": "titanium-extractor"
   },
   "researchCostMultiplier": 0.1,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","phoon" ]
 }

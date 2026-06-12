@@ -39,5 +39,5 @@
   "research": "fibralt-wall",
   "destroySound": "blockExplodeWall",
   "destroySoundVolume": 1.5,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

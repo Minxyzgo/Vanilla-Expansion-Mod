@@ -34,7 +34,7 @@
   "moveSoundPitchMax": 0.7,
   "loopSound": "loopHum",
   "loopSoundVolume": 0.3,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "range": 840,
   "parts": [
     {

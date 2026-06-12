@@ -16,6 +16,7 @@
   "powerProduction": 0,
   "size": 1,
   "health": 40,
+  "shownPlanets": [ "serpulo" ],
   "destroyBullet": {
     "despawnSound": "wind3",
     "despawnEffect": "massiveExplosion",

@@ -8,5 +8,5 @@
     "parent": "titanium-wall-large",
     "objectives": [ "titanium-wall-large" ]
   },
-  "shownPlanets": [ "serpulo","cyclant","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","phoon","thavina" ]
 }

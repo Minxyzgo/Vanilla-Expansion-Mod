@@ -43,7 +43,7 @@
   "tankMoveVolume": 0.45,
   "researchCostMultiplier": 0.05,
   "floorMultiplier": 0.5,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "capture-turret",

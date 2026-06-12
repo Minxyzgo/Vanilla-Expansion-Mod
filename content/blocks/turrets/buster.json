@@ -1859,5 +1859,5 @@
   },
   "coolantMultiplier": 2.25,
   "crushDamageMultiplier": 0.05,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
 }

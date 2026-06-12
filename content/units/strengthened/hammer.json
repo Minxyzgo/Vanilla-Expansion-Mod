@@ -21,7 +21,7 @@
   "stepSoundPitch": 0.9,
   "stepSoundPitchRange": 0.1,
   "stepSoundVolume": 0.5,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "slag-thrower",

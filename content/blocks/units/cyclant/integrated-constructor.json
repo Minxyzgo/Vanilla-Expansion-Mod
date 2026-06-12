@@ -14,7 +14,7 @@
   },
   "selectionColumns": 6,
   "selectionRows": 9,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "researchCostMultiplier": 0.3,
   "plans": [
     {

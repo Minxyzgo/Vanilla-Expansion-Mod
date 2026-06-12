@@ -23,7 +23,7 @@
       "sides": 6
     }
   ],
-  "shownPlanets": [ "sitrullus" ],
+  "shownPlanets": [ "sitrullus","maress","thavina" ],
   "range": 192,
   "alwaysShootWhenMoving": true,
   "research": {
@@ -306,6 +306,5 @@
 "shootWarmupSpeed":0.006,"linearWarmup":true,"reload":10,"shootStatusDuration":12,"useAttackRange":false,"shootCone":361,"shootSound":"none","mirror":false,"bullet":{"instantDisappear":true,"shootEffect":"none","smokeEffect":"none","hitEffect":"none","despawnEffect":"none","collides":false,"absorbable":false,"reflectable":false,"collidesGround":false,"collidesTiles":false,"hittable":false,"damage":0,"maxRange":192}},
     {"display":false,"ignoreRotation":true,"minWarmup":0.90,"shootStatus":"gatling-accel15",
 "shootWarmupSpeed":0.006,"linearWarmup":true,"reload":10,"shootStatusDuration":12,"useAttackRange":false,"shootCone":361,"shootSound":"none","mirror":false,"bullet":{"instantDisappear":true,"shootEffect":"none","smokeEffect":"none","hitEffect":"none","despawnEffect":"none","collides":false,"absorbable":false,"reflectable":false,"collidesGround":false,"collidesTiles":false,"hittable":false,"damage":0,"maxRange":192}}
-  ],
-  "shownPlanets": [ "sitrullus" ]
+  ]
 }

@@ -24,5 +24,6 @@
       "optional": false,
       "booster": false
     }
-  }
+  },
+  "shownPlanets": [ "serpulo","thavina" ]
 }

@@ -46,7 +46,7 @@
   "flying": true,
   "lowAltitude": true,
   "immunities": [ "frozen" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "abilities": [
     {
       "type": "SpawnDeathAbility",

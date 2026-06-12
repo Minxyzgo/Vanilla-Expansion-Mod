@@ -71,7 +71,7 @@
         "shootEffect": "none",
         "smokeEffect": "none",
         "rangeOverride": 336,
-        "speed": 999
+        "speed": 99999
       }
     },
     {
@@ -318,6 +318,5 @@
         "reflectable": false
       }
     }
-  ],
-  "shownPlanets": [ "serpulo","cyclant","sitrullus" ]
+  ]
 }

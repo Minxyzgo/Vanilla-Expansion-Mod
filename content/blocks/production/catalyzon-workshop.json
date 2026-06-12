@@ -10,6 +10,7 @@
     "power": 2
   },
   "outputItem": "catalyzon/5",
+  "shownPlanets": [ "maress","thavina" ],
   "craftTime": 300,
   "ambientSound": "loopTech",
   "ambientSoundVolume": 0.05,

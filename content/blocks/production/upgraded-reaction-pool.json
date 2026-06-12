@@ -25,6 +25,7 @@
     ]
   },
   "researchCostMultiplier": 0.2,
+  "shownPlanets": [ "maress","thavina" ]
   /*"changeRecipeEffect": {
     "type": "SoundEffect",
     "effect": {

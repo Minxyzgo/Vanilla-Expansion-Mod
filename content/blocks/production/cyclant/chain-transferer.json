@@ -30,7 +30,7 @@
     }
     "power": 2.6
   },
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "craftEffect": "formsmoke",
   "ambientSound": "loopMachine",
   "ambientSoundVolume": 0.2,

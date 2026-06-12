@@ -152,5 +152,5 @@
   },
   "outputItems": [ "titanium/10","fibralt/10" ],
   "outputLiquids": [ "hydrogen/0.354166666667" ],
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
 }

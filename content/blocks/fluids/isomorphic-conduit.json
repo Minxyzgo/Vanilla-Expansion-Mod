@@ -9,5 +9,5 @@
   "junctionReplacement": "fluid-junction",
   "bridgeReplacement": "isomorphic-bridge-conduit",
   "drawTeamOverlay": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

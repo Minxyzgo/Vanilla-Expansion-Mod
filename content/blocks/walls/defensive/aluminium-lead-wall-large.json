@@ -6,5 +6,5 @@
   "health": 1920,
   "size": 2,
   "researchCostMultiplier": 0.2,
-  "shownPlanets": [ "cyclant","phoon","maress" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }

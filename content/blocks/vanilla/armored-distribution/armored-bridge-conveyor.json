@@ -4,5 +4,6 @@
   "health": 220,
   "speed": 4,
   "range": 6,
-  "research": "armored-router"
+  "research": "armored-router",
+  "shownPlanets": [ "serpulo","thavina" ]
 }

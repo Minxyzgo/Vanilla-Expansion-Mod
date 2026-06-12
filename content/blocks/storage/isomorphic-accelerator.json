@@ -24,7 +24,7 @@
   "health": 20000,
   "armor": 4,
   "requirements": [ "aluminium/20000","silicon/16000","surge-alloy/12000","phase-fabric/5000","warp-nucleus/1000" ],
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "buildCostMultiplier": 0.5,
   "hasPower": true,
   "size": 11,

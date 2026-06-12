@@ -10,7 +10,7 @@
   "ambientSound": "loopDifferential",
   "ambientSoundVolume": 0.05,
   "size": 2,
-  "shownPlanets": [ "cyclant","phoon" ],
+  "shownPlanets": [ "cyclant","phoon","thavina" ],
   "research": {
     "parent": "geothermal-generator",
     "objectives": [

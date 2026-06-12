@@ -11,7 +11,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "thorium": {
       "ammoMultiplier": 1,
@@ -19,7 +20,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-thorium",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "nitroalkoss": {
       "ammoMultiplier": 4,
@@ -27,7 +29,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-nitroalkoss",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "silicide": {
       "ammoMultiplier": 1,
@@ -35,7 +38,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-silicide",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "silicon": {
       "ammoMultiplier": 1,
@@ -43,7 +47,8 @@
       "rangeChange": 400,
       "spawnUnit": "pantype-missile-silicon",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "phase-fabric": {
       "ammoMultiplier": 2,
@@ -51,7 +56,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-phase",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "surge-alloy": {
       "ammoMultiplier": 2,
@@ -59,7 +65,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-surge",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     },
     "warp-nucleus": {
       "ammoMultiplier": 4,
@@ -67,7 +74,8 @@
       "rangeChange": 0,
       "spawnUnit": "pantype-missile-warp",
       "shootEffect": "launchPod",
-      "smokeEffect": "drillSteam"
+      "smokeEffect": "drillSteam",
+      "speed": 99999
     }
   },
   "recoil": 0,
@@ -166,5 +174,5 @@
   //"acceptsItems": true,
   //"separateItemCapacity": true,
   "crushDamageMultiplier": 0.2,
-  "shownPlanets": [ "maress","sitrullus" ]
+  "shownPlanets": [ "maress","sitrullus","thavina" ]
 }

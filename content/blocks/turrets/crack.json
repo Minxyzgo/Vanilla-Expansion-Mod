@@ -375,5 +375,5 @@
   },
   "crushDamageMultiplier": 0.05,
   "targetGround": false,
-  "shownPlanets": [ "serpulo","cyclant","maress","phoon" ]
+  "shownPlanets": [ "serpulo","cyclant","maress","phoon","thavina" ]
 }

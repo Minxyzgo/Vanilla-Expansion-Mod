@@ -15,5 +15,5 @@
   "itemCapacity": 160,
   "researchCostMultiplier": 0.3,
   "drawTeamOverlay": false,
-  "shownPlanets": [ "cyclant","maress","phoon" ]
+  "shownPlanets": [ "cyclant","maress","phoon","thavina" ]
 }

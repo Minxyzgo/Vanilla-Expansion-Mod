@@ -44,7 +44,7 @@
   "tankMoveSound": "lbp3TankTreads",
   "tankMoveVolume": 0.3,
   "floorMultiplier": 0.65,
-  "shownPlanets": [ "cyclant","phoon","maress" ],
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ],
   "weapons": [
     {
       "name": "charge-turret",
@@ -73,7 +73,7 @@
       },
       "bullet": {
         "spawnUnit": "charge-missile",
-        "speed": 999,
+        "speed": 99969,
         "damage": 32,
         "drag": -0.01,
         "smokeEffect": "shootBigSmoke",

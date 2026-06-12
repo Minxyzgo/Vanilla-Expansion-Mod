@@ -49,5 +49,5 @@
   "warmupSpeed": 0.15,
   //"lightColor": "ffd37f",
   "research": "lamp",
-  "shownPlanets": [ "serpulo","cyclant","phoon","maress","sitrullus" ]
+  "shownPlanets": [ "serpulo","cyclant","phoon","maress","sitrullus","thavina" ]
 }

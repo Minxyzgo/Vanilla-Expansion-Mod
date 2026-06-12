@@ -29,5 +29,5 @@
   "laserColor1": "ffffff",
   "baseExplosiveness": 3,
   "drawTeamOverlay": false,
-  "shownPlanets": [ "cyclant","phoon" ]
+  "shownPlanets": [ "cyclant","phoon","maress","thavina" ]
 }
